@@ -1,0 +1,5 @@
+To run the car service,
+go run main.go
+
+To run the test,
+go test
